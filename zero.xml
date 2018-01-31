@@ -3,7 +3,6 @@
   <project name="enesuzun2002/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" revision="nx-7.1" />
   <project name="enesuzun2002/android_device_samsung_zero-common" path="device/samsung/zero-common" remote="github" revision="nx-7.1" />
   <project name="enesuzun2002/android_vendor_samsung_zero-common" path="vendor/samsung/zero-common" remote="github" revision="nx-7.1" />
-  <project name="enesuzun2002/android_vendor_addons" path="vendor/addons" remote="github" revision="7.1" />
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.1" />
   <project name="enesuzun2002/android_hardware_samsung" path="hardware/samsung" remote="github" revision="nx-7.1" />
