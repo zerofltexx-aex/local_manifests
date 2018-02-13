@@ -3,9 +3,10 @@
 <manifest>
   	
   <!--Device Trees-->
-  <project name="francitato/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" revision="dotos" />
+  <project name="francitato/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" revision="master" />
   <project name="francitato/android_device_samsung_zero-common" path="device/samsung/zero-common" remote="github" revision="dotos" />
-  <project name="LineageOS/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" revision="cm-14.1" />
+  <project name="francitato/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" revision="aokp-n" />
+
 
   <!--Kernel-->
   <project name="francitato/android_kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" remote="github" revision="arianoxx" />
