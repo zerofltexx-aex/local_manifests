@@ -3,7 +3,7 @@
 <manifest>
   	
   <!--Device Trees-->
-   <project name="francitato/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" revision="oreo" />
+  <project name="francitato/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" revision="oreo" />
   <project name="francitato/android_device_samsung_zero-common" path="device/samsung/zero-common" remote="github" revision="oreo" />
 
 
