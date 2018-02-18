@@ -17,7 +17,6 @@
   <!--Proprietary Files-->
   <project name="francitato/android_vendor_samsung_zero-common" path="vendor/samsung/zero-common" remote="github" revision="master" />
   <project name="francitato/android_hardware_samsung" path="hardware/samsung" remote="github" revision="master" />
-  <project name="francitato/android_vendor_carbon" path="vendor/carbon" remote="github" revision="cr-5.1" />
   
   <!--Dependencies-->
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.1" />
