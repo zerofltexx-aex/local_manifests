@@ -3,13 +3,13 @@
 <manifest>
   	
   <!--Device Trees-->
-  <project name="arianoxxnougat/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" revision="master" />
+  <project name="arianoxxnougat/android_device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" revision="cm-14.1" />
   <project name="arianoxxnougat/android_device_samsung_zero-common" path="device/samsung/zero-common" remote="github" revision="nx-7.1" />
   <project name="arianoxxnougat/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="github" revision="aokp-n" />
 
 
   <!--Kernel-->
-  <project name="arianoxxnougat/android_kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" remote="github" revision="test" />
+  <project name="arianoxxnougat/android_kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" remote="github" revision="aex" />
   
   <!--Linaro-->
   <project name="francitato/android_prebuilts_linaro" path="prebuilts/linaro" remote="github" revision="nx-8.1" />
