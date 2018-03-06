@@ -15,8 +15,8 @@
   <project name="francitato/android_prebuilts_linaro" path="prebuilts/linaro" remote="github" revision="nx-8.1" />
 
   <!--Proprietary Files-->
-  <project name="arianoxxnougat/android_vendor_samsung_zero-common" path="vendor/samsung/zero-common" remote="github" revision="master" />
-  <project name="arianoxxnougat/android_hardware_samsung" path="hardware/samsung" remote="github" revision="master" />
+  <project name="arianoxxnougat/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1" />
+  <project name="arianoxxnougat/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
   
   <!--Dependencies-->
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.1" />
