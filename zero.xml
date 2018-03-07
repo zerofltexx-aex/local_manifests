@@ -22,14 +22,7 @@
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="cm-14.1" />
-  <project name="zerofltexx-aex/android_hardware_samsung_slsi-cm_exynos7420" path="hardware/samsung_slsi-cm/exynos7420" remote="github" revision="nx-7.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos7420" path="hardware/samsung_slsi-cm/exynos7420" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-14.1" />
 
-  <!--Android Stuff-->
-  <remove-project name="platform_build" path="build" groups="pdk,tradefed" remote="ex" />
-  <remove-project path="frameworks/base" name="platform_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="ex" />
-  <project name="zerofltexx-aex/platform_build" path="build" groups="pdk,tradefed" remote="github" revision="7.x" />
-  <copyfile src="core/root.mk" dest="Makefile" />
-  <project name="zerofltexx-aex/platform_frameworks_base" path="frameworks/base" remote="github" groups="pdk-cw-fs,pdk-fs" revision="7.x" />
-  
  </manifest>
