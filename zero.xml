@@ -16,8 +16,9 @@
 
   <!--Proprietary Files-->
   <project name="zerofltexx-aex/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1" />
+  <project name="zerofltexx-aex/platform_vendor_aosp" path="vendor/aosp" remote="github" revision="7.x" />
   <project name="zerofltexx-aex/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
-  
+
   <!--Dependencies-->
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-14.1" />
