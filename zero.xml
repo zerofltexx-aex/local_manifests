@@ -15,7 +15,7 @@
   <project name="francitato/android_prebuilts_linaro" path="prebuilts/linaro" remote="github" revision="nx-8.1" />
 
   <!--Proprietary Files-->
-  <project name="zerofltexx-aex/android_vendor_samsung_zero-common" path="vendor/samsung/zero-common" remote="github" revision="nx-7.1" />
+  <project name="zerofltexx-aex/android_vendor_samsung" path="vendor/samsung" remote="github" revision="nx-7.1" />
   <project name="zerofltexx-aex/platform_vendor_aosp" path="vendor/aosp" remote="github" revision="7.x" />
   <project name="zerofltexx-aex/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
 
